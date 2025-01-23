@@ -24,7 +24,7 @@ export default function CartMenu({ onClose }: CartMenuProps) {
         <div className="flex justify-between items-center mb-6">
           <h2 className="text-xl font-semibold">Shopping Cart</h2>
           <div className="relative">
-            <img
+            <Image
               src="/images/close-cart.png"
               className="w-5 h-5 cursor-pointer"
               alt="Close cart"

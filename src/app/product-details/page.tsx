@@ -285,13 +285,13 @@ export default function ProductDetails() {
     <span className="w-24 text-[#9F9F9F]">Share</span>
     <div className="flex gap-4">
       <button className="hover:text-gray-600">
-        <img src="/images/facebook.png" alt="Facebook" className="w-5 h-5" />
+        <Image src="/images/facebook.png" alt="Facebook" className="w-5 h-5" />
       </button>
       <button className="hover:text-gray-600">
-        <img src="/images/linkedin.png" alt="LinkedIn" className="w-5 h-5" />
+        <Image src="/images/linkedin.png" alt="LinkedIn" className="w-5 h-5" />
       </button>
       <button className="hover:text-gray-600">
-        <img src="/images/twitter.png" alt="Twitter" className="w-5 h-5" />
+        <Image src="/images/twitter.png" alt="Twitter" className="w-5 h-5" />
       </button>
     </div>
   </div>
