@@ -1,0 +1,1 @@
+Welcome to the FurniStore Marketplace repository! This project serves as the technical foundation for building a scalable and user-friendly furniture e-commerce platform, created during the Marketplace Innovator Hackathon 2025.
