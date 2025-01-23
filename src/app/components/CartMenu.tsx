@@ -28,6 +28,8 @@ export default function CartMenu({ onClose }: CartMenuProps) {
               src="/images/close-cart.png"
               className="w-5 h-5 cursor-pointer"
               alt="Close cart"
+              width={200}
+              height={200}
               onClick={onClose}
             />
           </div>
